@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTcpListener", "MyTcpListener\MyTcpListener.csproj", "{B37B6E70-56EA-4381-9D11-DE02EB0130DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTcpClient", "MyTcpClient\MyTcpClient.csproj", "{2901D203-7BCA-4088-8767-96E3239978B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpMethodServer", "TcpMethodServer\TcpMethodServer.csproj", "{B87046A9-63D3-4158-8692-B687091470DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpMethodClient", "TcpMethodClient\TcpMethodClient.csproj", "{A3F4687E-B99A-4245-92E3-600FEEF89A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		NET CE Debug|Any CPU = NET CE Debug|Any CPU
+		NET4.5 Debug|Any CPU = NET4.5 Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B37B6E70-56EA-4381-9D11-DE02EB0130DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37B6E70-56EA-4381-9D11-DE02EB0130DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37B6E70-56EA-4381-9D11-DE02EB0130DF}.NET CE Debug|Any CPU.ActiveCfg = NET CE Debug|Any CPU
+		{B37B6E70-56EA-4381-9D11-DE02EB0130DF}.NET CE Debug|Any CPU.Build.0 = NET CE Debug|Any CPU
+		{B37B6E70-56EA-4381-9D11-DE02EB0130DF}.NET4.5 Debug|Any CPU.ActiveCfg = NET4.5 Debug|Any CPU
+		{B37B6E70-56EA-4381-9D11-DE02EB0130DF}.NET4.5 Debug|Any CPU.Build.0 = NET4.5 Debug|Any CPU
+		{B37B6E70-56EA-4381-9D11-DE02EB0130DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37B6E70-56EA-4381-9D11-DE02EB0130DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2901D203-7BCA-4088-8767-96E3239978B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2901D203-7BCA-4088-8767-96E3239978B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2901D203-7BCA-4088-8767-96E3239978B2}.NET CE Debug|Any CPU.ActiveCfg = NET CE Debug|Any CPU
+		{2901D203-7BCA-4088-8767-96E3239978B2}.NET CE Debug|Any CPU.Build.0 = NET CE Debug|Any CPU
+		{2901D203-7BCA-4088-8767-96E3239978B2}.NET4.5 Debug|Any CPU.ActiveCfg = NET4.5 Debug|Any CPU
+		{2901D203-7BCA-4088-8767-96E3239978B2}.NET4.5 Debug|Any CPU.Build.0 = NET4.5 Debug|Any CPU
+		{2901D203-7BCA-4088-8767-96E3239978B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2901D203-7BCA-4088-8767-96E3239978B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87046A9-63D3-4158-8692-B687091470DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87046A9-63D3-4158-8692-B687091470DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87046A9-63D3-4158-8692-B687091470DB}.NET CE Debug|Any CPU.ActiveCfg = NET CE Debug|Any CPU
+		{B87046A9-63D3-4158-8692-B687091470DB}.NET CE Debug|Any CPU.Build.0 = NET CE Debug|Any CPU
+		{B87046A9-63D3-4158-8692-B687091470DB}.NET4.5 Debug|Any CPU.ActiveCfg = NET4.5 Debug|Any CPU
+		{B87046A9-63D3-4158-8692-B687091470DB}.NET4.5 Debug|Any CPU.Build.0 = NET4.5 Debug|Any CPU
+		{B87046A9-63D3-4158-8692-B687091470DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87046A9-63D3-4158-8692-B687091470DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F4687E-B99A-4245-92E3-600FEEF89A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F4687E-B99A-4245-92E3-600FEEF89A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F4687E-B99A-4245-92E3-600FEEF89A5A}.NET CE Debug|Any CPU.ActiveCfg = NET CE Debug|Any CPU
+		{A3F4687E-B99A-4245-92E3-600FEEF89A5A}.NET CE Debug|Any CPU.Build.0 = NET CE Debug|Any CPU
+		{A3F4687E-B99A-4245-92E3-600FEEF89A5A}.NET4.5 Debug|Any CPU.ActiveCfg = NET4.5 Debug|Any CPU
+		{A3F4687E-B99A-4245-92E3-600FEEF89A5A}.NET4.5 Debug|Any CPU.Build.0 = NET4.5 Debug|Any CPU
+		{A3F4687E-B99A-4245-92E3-600FEEF89A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F4687E-B99A-4245-92E3-600FEEF89A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
